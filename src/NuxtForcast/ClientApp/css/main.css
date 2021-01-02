@@ -1,0 +1,8 @@
+#page {
+    /* Footer + individual */
+    margin: 20px auto 80px auto;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
