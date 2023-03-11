@@ -49,3 +49,7 @@ Call up the application on:\
 
 ## Author
 Levin Joller
+
+## DEPRECATED
+This project is no longer in development.
+It fulfilled its purpose as an exercise.
